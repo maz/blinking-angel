@@ -1,4 +1,4 @@
-USAGE: run the ruby server and go to http://localhost:4567/
+USAGE: run the blink binary and the ruby server and go to http://localhost:4567/
 
 The images were found on the internet. I wrote the ruby code and the HTML file.
 
