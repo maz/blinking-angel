@@ -1,3 +1,5 @@
+USAGE: run the ruby server and go to http://localhost:4567/
+
 The images were found on the internet. I wrote the ruby code and the HTML file.
 
 The entirety of the C code is licensed under the GPL.
