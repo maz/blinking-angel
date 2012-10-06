@@ -1,0 +1,1 @@
+curl -s 'http://localhost:4567/blinked' >> /dev/null
